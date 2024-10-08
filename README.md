@@ -26,12 +26,10 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
+1. `FTP SSH TELNET SMTP apache nfs samba MYSQL POSTGRES VNC X11 IRC  `
+2. `vsftpd 2.3.4 - Backdoor Command Execution`
+3. `OpenSSH < 7.4 - agent Protocol Arbitrary Library Loading`
+4. `Oracle MySQL < 5.1.49 - Malformed 'BINLOG' Arguments Denial of Service`
 
 ```
 Поле для вставки кода...
